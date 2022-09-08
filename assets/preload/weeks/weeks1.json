@@ -1,0 +1,41 @@
+{
+	"storyName": "Definitive Clone",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Articlone",
+			"metal",
+			[
+				66,
+				153,
+				233
+			]
+		],
+		[
+			"Shut up",
+			"tails",
+			[
+				226,
+				173,
+				73
+			]
+		]
+	],
+	"weekCharacters": [
+		"metal",
+		"sonic",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Metal Sonic"
+}
